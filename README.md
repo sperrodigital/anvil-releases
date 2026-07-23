@@ -9,7 +9,7 @@ the private `sperrodigital/aos` repo — see that repo's `CLAUDE.md`
 
 Stable download links (always resolve to the newest release):
 
-- macOS: https://github.com/sperrodigital/anvil-releases/releases/latest/download/Anvil-0.5.0-macos-universal.dmg
+- macOS: https://github.com/sperrodigital/anvil-releases/releases/latest/download/Anvil-0.7.0-macos-universal.dmg
 - Windows: https://github.com/sperrodigital/anvil-releases/releases/latest/download/Anvil-windows-x64-setup.exe
 - Linux (AppImage): https://github.com/sperrodigital/anvil-releases/releases/latest/download/Anvil-linux-x86_64.AppImage
 - Linux (.deb): https://github.com/sperrodigital/anvil-releases/releases/latest/download/Anvil-linux-amd64.deb
